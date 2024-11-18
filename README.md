@@ -1,4 +1,4 @@
-<img align="center" align-item="center" alt="coding" height="400" width="400" src="https://cdn.dribbble.com/users/5265391/screenshots/14183222/media/e31df7c926a25f6325964945cd236658.png?resize=1200x900&vertical=center">
+<img align="center" alt="coding" height="400" width="400" src="https://cdn.dribbble.com/users/5265391/screenshots/14183222/media/e31df7c926a25f6325964945cd236658.png?resize=1200x900&vertical=center">
 <h1 align="center">Hi 👋, I'm Jaswinder singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
