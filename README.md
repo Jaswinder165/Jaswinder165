@@ -1,4 +1,4 @@
-<img align="center" width=100vw height="100vh" alt="1679683081898" src="https://github.com/user-attachments/assets/cd7ce16a-1f20-4ed5-89f6-ef40197356e9" />
+<img align="center" width=100vw height="500" alt="1679683081898" src="https://github.com/user-attachments/assets/cd7ce16a-1f20-4ed5-89f6-ef40197356e9" />
 <h1 align="center">Hi 👋, I'm Jaswinder singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
