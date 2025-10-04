@@ -11,6 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https:/github.com/Jaswinder165" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https:/www.linkedin.com/in/jaswinder-singh-530151266" target="_blank"><i class="fab fa-linkedin"></i></a>
+
 <a href="https://instagram.com/jaswinder._.singh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaswinder._.singh_" height="30" width="40" /></a>
 </p>
 
